@@ -185,6 +185,11 @@ padding-bottom: 20px;
     max-width: 600px;
     height: auto;
 }
+.fullimg2 img {
+    width: 100%;
+    max-width: 560px;
+    height: auto;
+}
 .but {
     height: 40px;
     background-color: #ea0200;
