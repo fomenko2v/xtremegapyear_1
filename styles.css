@@ -52,12 +52,7 @@ p {
 .contents {
 width: 100%;
 }
-/* Full image */
-.img600 {
-    width: 100%;
-    max-width: 600px;
-    height: auto;
-}
+
 /* One column */
 .inner {
 padding: 10px;
@@ -130,34 +125,7 @@ padding-bottom: 20px;
     Margin-bottom: 20px;
 
 }
-.hh {
-    height: 154px;
-}
-.bgi_1 {
-    background-image: url(bgi1.jpg);
-    background-position: top center;
-    height: 218px;   
-}
-.bgi_2 {
-    background-image: url(bgi2.jpg);
-    background-position: top center;
-    height: 218px;   
-}
-.bgi_3 {
-    background-image: url(bgi3_2.jpg);
-    background-position: top center;
-    height: 218px;   
-}
-.bgi_4 {
-    background-image: url(bgi4_2.jpg);
-    background-position: top center;
-    height: 218px;   
-}
-.bgi_5 {
-    background-image: url(bgi5_2.jpg);
-    background-position: top center;
-    height: 218px;   
-}
+
 .about {
     background-color: #ffffff;
     padding: 20px 30px 20px 30px;
@@ -190,6 +158,7 @@ padding-bottom: 20px;
     max-width: 560px;
     height: auto;
 }
+
 .but {
     height: 40px;
     background-color: #ea0200;
